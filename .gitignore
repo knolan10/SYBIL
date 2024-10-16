@@ -1,6 +1,7 @@
 # Ignore these files
 /transients_kiraedits.ipynb
 /Fermi_GBM_Localizations_and_Skymaps_Tutorial.ipynb
+/Finding_GBM_Data_Tutorial.ipynb
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
