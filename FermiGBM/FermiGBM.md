@@ -6,7 +6,7 @@ This directory contains the work developing ([fermiskymap_testing.ipynb](./fermi
 
 We start with simulated LIGO NSBH or BNS detections, and use the simulated ra, dec, and luminosity distance. 
 
-We assume a top hat function for gamma-ray burst detectability. We set the probability of detection with the assumption that the jets must be within 15 degrees of the line of sight, although this probabilty can be modified in the script. We set a fixed luminosity at \(2 \times 10^{52} \, \text{ergs/s}\) ([source](https://arxiv.org/pdf/2401.13636)).
+We assume a top hat function for gamma-ray burst detectability. We set the probability of detection with the assumption that the jets must be within 15 degrees of the line of sight, although this probabilty can be modified in the script. We set a fixed luminosity at 2 × 10<sup>52</sup> ergs/s ([source](https://arxiv.org/pdf/2401.13636)).
 
 Our default detection probability is 60 / 360, assuming two symmetrical jets, either of which can be within 15 degrees of the angle of observation.
 
